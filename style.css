@@ -1,0 +1,28 @@
+h1{color: rgba(45,18,65,0.4);font-size:100px;text-align: center;
+    text-shadow: rgba(45, 85, 14, 0.5);background-color: rgba(45, 45, 45, 0.5);}
+   ol{font-size: x-large;font-style: italic;}
+   
+  
+    div{text-align: center;
+        
+        font-family: cursive; font-size: x-large;
+
+
+    }
+    body{background-image: url(image/fond.jpg); background-size: 2500px 1550px;} 
+    #France{width: 50px;}
+    #Anglais{width: 50px;}
+    #esp{width: 50px;}
+    #jpn{width: 50px;}
+    #fb{width: 100px;}
+    #moi{size: 120px;} #moi{height: 225px;}
+    #moi2{align-self: flex-end;size: 120px;height: 225px;}
+    #cv{width: 150px; height: 150px; align-self: center;}
+    #lkdn{width: 100px;}
+    #intro{font-size: xx-large;}
+    #Texte{font-size: x-large; font-weight: 600;}
+    #logo{width: 50px;} #logo:hover{opacity: 0.6;}
+    #monta {width: 50px;}
+    h4{font-size: x-large; text-align-last: center;}
+#fb:hover{ opacity: 0.6;}
+#lkdn:hover{opacity: 0.6;}
